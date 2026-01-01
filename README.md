@@ -11,7 +11,7 @@ The repository includes solutions to all problem sets and a final project, organ
 ## Certification
 
 <a href="https://certificates.cs50.io/f5217909-f1f3-4800-ac18-7f91ead7413c ">
-  <img src="assets/cs50_python_certificate.png" alt="CS50 Python Certificate" width="600">
+  <img src="assets/CS50P.png" alt="CS50 Python Certificate" width="600">
 </a>
 
 ---
