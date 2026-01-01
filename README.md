@@ -1,4 +1,6 @@
-# CS50Python
+**Certificate:** https://certificates.cs50.io/f5217909-f1f3-4800-ac18-7f91ead7413c  
+**Course:** CS50’s Introduction to Programming with Python (Harvard University)
+
 
 This repository contains my completed work for **CS50’s Introduction to Programming with Python**, a Harvard University course focused on developing strong programming fundamentals and problem-solving skills using Python.
 
@@ -6,7 +8,13 @@ The repository includes solutions to all problem sets and a final project, organ
 
 ---
 
-## Repository Structure
+## Certification
+
+<a href="https://certificates.cs50.io/f5217909-f1f3-4800-ac18-7f91ead7413c ">
+  <img src="assets/cs50_python_certificate.png" alt="CS50 Python Certificate" width="600">
+</a>
+
+---
 
 ## Repository Structure
 
@@ -22,8 +30,10 @@ cs50Python/
 ├── problemSet6/
 ├── problemSet7/
 ├── problemSet8/
-│
-└── FinalProject/
+├── FinalProject/
+├── README.md
+└── assets/
+    └── cs50_python_certificate.png
 ```
 
 ---
@@ -67,4 +77,5 @@ The contents must not be used for plagiarism or submitted as solutions for any c
 ## Author
 
 **Rishi Bisht**  
-B.Tech CSE (Artificial Intelligence & Machine Learning)  
+B.Tech CSE (Artificial Intelligence & Machine Learning)
+[linkdn](https://www.linkedin.com/in/rishi-bisht-476383360/)  
