@@ -1,6 +1,6 @@
-**Certificate:** https://certificates.cs50.io/f5217909-f1f3-4800-ac18-7f91ead7413c  
-**Course:** CS50’s Introduction to Programming with Python (Harvard University)
+# CS50Python
 
+---
 
 This repository contains my completed work for **CS50’s Introduction to Programming with Python**, a Harvard University course focused on developing strong programming fundamentals and problem-solving skills using Python.
 
