@@ -1,6 +1,4 @@
-# CS50Python
-
----
+# CS50’s Introduction to Programming with Python
 
 This repository contains my completed work for **CS50’s Introduction to Programming with Python**, a Harvard University course focused on developing strong programming fundamentals and problem-solving skills using Python.
 
